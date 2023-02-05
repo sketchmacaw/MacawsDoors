@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CA",
+        "BB",
+        "AA"                
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:iron_nugget"
+        },    
+        
+        "A":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+		
+		"C":
+        {
+            "item": "minecraft:glass_pane"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:metal_hospital_door",
+        "count": 2
+    }
+}
+
+

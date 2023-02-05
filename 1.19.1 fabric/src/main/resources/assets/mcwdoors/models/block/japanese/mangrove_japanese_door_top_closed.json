@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/japanese_top_closed",
+    "textures": {
+		"0": "mcwdoors:block/japanese_mangrove_lower",
+		"1": "mcwdoors:block/japanese_mangrove_upper",
+		"2": "mcwdoors:block/japanese_mangrove_lower",
+		"particle": "mcwdoors:block/japanese_mangrove_lower"
+    }
+}

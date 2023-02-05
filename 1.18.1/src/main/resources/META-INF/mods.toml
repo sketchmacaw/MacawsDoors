@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+license="MIT"
+
+logoFile="doorslogo.png"
+[[mods]]
+modId="mcwdoors"
+version="1.0.8"
+displayName="Macaw's Doors"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/macaws-doors"
+updateJSONURL="https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json"
+credits=""
+authors="Sketch Macaw & Sketch Peachy"
+description="Adds a lot of new Doors! With vanila and unique styles."

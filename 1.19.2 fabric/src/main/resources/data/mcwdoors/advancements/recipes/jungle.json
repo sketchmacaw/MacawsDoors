@@ -1,0 +1,45 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwdoors:print_jungle",
+	
+	  "mcwdoors:jungle_bark_glass_door",
+	  "mcwdoors:jungle_barn_door",
+	  "mcwdoors:jungle_barn_glass_door",
+	  "mcwdoors:jungle_tropical_door",
+	  "mcwdoors:jungle_classic_door",
+	  "mcwdoors:jungle_cottage_door",
+	  "mcwdoors:jungle_four_panel_door",
+	  "mcwdoors:jungle_glass_door",
+	  "mcwdoors:jungle_japanese_door",
+	  "mcwdoors:jungle_japanese2_door",
+	  "mcwdoors:jungle_modern_door",
+	  "mcwdoors:jungle_mystic_door",
+	  "mcwdoors:jungle_nether_door",
+	  "mcwdoors:jungle_paper_door",
+	  "mcwdoors:jungle_stable_door",
+	  "mcwdoors:jungle_stable_head_door",
+	  "mcwdoors:jungle_swamp_door",
+	  "mcwdoors:jungle_western_door",
+	  "mcwdoors:jungle_bamboo_door"
+    ]
+  },
+  "criteria": {
+    "has_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:jungle_log"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_planks"
+    ]
+  ]
+}

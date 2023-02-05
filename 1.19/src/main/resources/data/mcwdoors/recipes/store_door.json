@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BA",
+        "BB",
+		"BA"
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:iron_ingot"
+        },    
+        
+        "A":
+        {
+            "item": "minecraft:glass_pane"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:store_door",
+        "count": 2
+    }
+}
+
+

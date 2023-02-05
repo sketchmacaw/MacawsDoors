@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "prints",
+    
+    "pattern":
+    [
+        " A ",
+        "ABA",
+        " A "                
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:paper"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:acacia_door"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:print_acacia",
+        "count": 4
+    }
+}
+
+

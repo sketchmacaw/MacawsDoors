@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "portcullis",
+    
+    "pattern":
+    [
+        "AAA",
+        "BBB"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:iron_bars"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:iron_portcullis",
+        "count": 3
+    }
+}
+
+

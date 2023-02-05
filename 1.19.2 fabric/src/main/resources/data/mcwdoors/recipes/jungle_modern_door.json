@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "modern",
+    
+    "pattern":
+    [
+        "AB",
+        "AA",
+        "AB"                
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:jungle_planks"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:glass_pane"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:jungle_modern_door",
+        "count": 3
+    }
+}
+
+

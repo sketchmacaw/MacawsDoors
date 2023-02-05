@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/core/door_top_rh",
+    "textures": {
+        
+"bottom": "mcwdoors:block/warped_classic_door_lower",
+"particle": "mcwdoors:block/warped_classic_door_lower",
+        "top": "mcwdoors:block/warped_classic_door_upper"
+    }
+}

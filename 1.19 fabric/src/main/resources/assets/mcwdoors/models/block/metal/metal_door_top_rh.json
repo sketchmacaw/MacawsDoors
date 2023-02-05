@@ -1,0 +1,8 @@
+{
+    "parent": "mcwdoors:block/parent/metal_door_top_rh",
+    "textures": {
+        "bottom": "mcwdoors:block/metal_door_lower",
+		"particle": "mcwdoors:block/metal_door_lower",
+        "top": "mcwdoors:block/metal_door_upper"
+    }
+}

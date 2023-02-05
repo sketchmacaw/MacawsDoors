@@ -1,0 +1,9 @@
+{
+	"ambientocclusion": false,
+    "parent": "mcwdoors:block/parent/western_door_top",
+	"textures": {  
+	"particle": "mcwdoors:block/western/birch_western_door_lower",
+		"1": "mcwdoors:block/western/birch_western_door_lower",
+		"2": "mcwdoors:block/western/birch_western_door_upper"
+    }
+}

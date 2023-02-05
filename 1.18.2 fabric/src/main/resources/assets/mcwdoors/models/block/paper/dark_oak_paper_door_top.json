@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/core/door_top",
+    "textures": {
+        
+"bottom": "mcwdoors:block/dark_oak_paper_door_lower",
+"particle": "mcwdoors:block/dark_oak_paper_door_lower",
+        "top": "mcwdoors:block/dark_oak_paper_door_upper"
+    }
+}

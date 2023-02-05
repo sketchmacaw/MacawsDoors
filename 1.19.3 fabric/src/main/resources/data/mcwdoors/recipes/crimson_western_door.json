@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "western",
+    
+    "pattern":
+    [
+        "  A",
+        "ABA",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:crimson_planks"
+        },
+		
+		"B":
+        {
+            "item": "minecraft:crimson_slab"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:crimson_western_door",
+        "count": 3
+    }
+}
+
+

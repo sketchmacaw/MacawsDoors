@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "shoji",
+    
+    "pattern":
+    [
+        "BB",
+        "BB",
+        "AA"                
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:crimson_planks"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:paper"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:crimson_japanese_door",
+        "count": 3
+    }
+}
+
+

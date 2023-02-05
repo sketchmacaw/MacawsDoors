@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/japanese_top_left",
+    "textures": {
+		"0": "mcwdoors:block/japanese_jungle_lower",
+		"1": "mcwdoors:block/japanese_jungle_upper",
+		"2": "mcwdoors:block/japanese_jungle_lower",
+		"particle": "mcwdoors:block/japanese_jungle_lower"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "western",
+    
+    "pattern":
+    [
+        "  A",
+        "ABA",
+		"AAA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:mangrove_planks"
+        },
+		
+		"B":
+        {
+            "item": "minecraft:mangrove_slab"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:mangrove_western_door",
+        "count": 3
+    }
+}
+
+

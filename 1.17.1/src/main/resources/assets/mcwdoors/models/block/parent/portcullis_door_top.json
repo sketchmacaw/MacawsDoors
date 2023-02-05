@@ -1,0 +1,58 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"3": "mcwdoors:block/wooden_portcullis_door_top",
+		"particle": "mcwdoors:block/wooden_portcullis_door_top"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 6],
+			"to": [6, 16, 10],
+			"faces": {
+				"north": {"uv": [10, 0, 14, 16], "texture": "#3"},
+				"east": {"uv": [2, 0, 6, 16], "texture": "#3"},
+				"south": {"uv": [2, 0, 6, 16], "texture": "#3"},
+				"west": {"uv": [10, 0, 14, 16], "texture": "#3"},
+				"up": {"uv": [10, 6, 14, 10], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [10, 6, 14, 10], "texture": "#3"}
+			}
+		},
+		{
+			"from": [10, 0, 6],
+			"to": [14, 16, 10],
+			"faces": {
+				"north": {"uv": [2, 0, 6, 16], "texture": "#3"},
+				"east": {"uv": [10, 0, 14, 16], "texture": "#3"},
+				"south": {"uv": [10, 0, 14, 16], "texture": "#3"},
+				"west": {"uv": [2, 0, 6, 16], "texture": "#3"},
+				"up": {"uv": [2, 6, 6, 10], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [2, 6, 6, 10], "texture": "#3"}
+			}
+		},
+		{
+			"from": [0, 2, 6.5],
+			"to": [16, 6, 9.5],
+			"faces": {
+				"north": {"uv": [0, 10, 16, 14], "texture": "#3"},
+				"east": {"uv": [3, 6, 6, 10], "texture": "#3"},
+				"south": {"uv": [0, 10, 16, 14], "texture": "#3"},
+				"west": {"uv": [11, 6, 14, 10], "texture": "#3"},
+				"up": {"uv": [0, 10, 16, 13], "texture": "#3"},
+				"down": {"uv": [0, 3, 16, 6], "texture": "#3"}
+			}
+		},
+		{
+			"from": [0, 10, 6.5],
+			"to": [16, 14, 9.5],
+			"faces": {
+				"north": {"uv": [0, 2, 16, 6], "texture": "#3"},
+				"east": {"uv": [3, 6, 6, 10], "texture": "#3"},
+				"south": {"uv": [0, 2, 16, 6], "texture": "#3"},
+				"west": {"uv": [11, 6, 14, 10], "texture": "#3"},
+				"up": {"uv": [0, 2, 16, 5], "texture": "#3"},
+				"down": {"uv": [0, 11, 16, 14], "texture": "#3"}
+			}
+		}
+	]
+}

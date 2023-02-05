@@ -1,0 +1,45 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwdoors:print_dark_oak",
+	
+	  "mcwdoors:dark_oak_bark_glass_door",
+	  "mcwdoors:dark_oak_barn_door",
+	  "mcwdoors:dark_oak_barn_glass_door",
+	  "mcwdoors:dark_oak_beach_door",
+	  "mcwdoors:dark_oak_classic_door",
+	  "mcwdoors:dark_oak_cottage_door",
+	  "mcwdoors:dark_oak_tropical_door",
+	  "mcwdoors:dark_oak_glass_door",
+	  "mcwdoors:dark_oak_japanese_door",
+	  "mcwdoors:dark_oak_japanese2_door",
+	  "mcwdoors:dark_oak_modern_door",
+	  "mcwdoors:dark_oak_mystic_door",
+	  "mcwdoors:dark_oak_nether_door",
+	  "mcwdoors:dark_oak_paper_door",
+	  "mcwdoors:dark_oak_stable_door",
+	  "mcwdoors:dark_oak_stable_head_door",
+	  "mcwdoors:dark_oak_swamp_door",
+	  "mcwdoors:dark_oak_western_door",
+	  "mcwdoors:dark_oak_bamboo_door"
+    ]
+  },
+  "criteria": {
+    "has_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dark_oak_log"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_planks"
+    ]
+  ]
+}

@@ -1,0 +1,18 @@
+{
+	"credit": "Made with Blockbench",
+	"render_type": "cutout",
+	"ambientocclusion": false,
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [3, 0, 0, 16], "texture": "#1"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#bottom"},
+				"south": {"uv": [0, 0, 3, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#bottom"},
+				"up": {"uv": [13, 0, 16, 16], "texture": "#1", "cullface": "up"}
+			}
+		}
+	]
+}

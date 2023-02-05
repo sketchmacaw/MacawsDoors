@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "cottage",
+    
+    "pattern":
+    [
+        "A",
+        "B",
+        "A"                
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:bamboo"
+        },    
+        
+        "B":
+        {
+            "item": "mcwdoors:print_spruce"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:bamboo_cottage_door",
+        "count": 1
+    }
+}
+
+

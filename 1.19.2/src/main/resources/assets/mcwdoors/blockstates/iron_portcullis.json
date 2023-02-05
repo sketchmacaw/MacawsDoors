@@ -1,0 +1,36 @@
+{
+    "variants": {
+        "facing=east,part=top,open=false":  { "model": "mcwdoors:block/portcullis/iron_portcullis_door_top" },
+        "facing=south,part=top,open=false": { "model": "mcwdoors:block/portcullis/iron_portcullis_door_top", "y": 90 },
+        "facing=west,part=top,open=false":  { "model": "mcwdoors:block/portcullis/iron_portcullis_door_top", "y": 180 },
+        "facing=north,part=top,open=false": { "model": "mcwdoors:block/portcullis/iron_portcullis_door_top", "y": 270 },
+			
+	    "facing=east,part=bottom,open=false":  { "model": "mcwdoors:block/portcullis/iron_portcullis_door_bottom" },
+        "facing=south,part=bottom,open=false": { "model": "mcwdoors:block/portcullis/iron_portcullis_door_bottom", "y": 90 },
+        "facing=west,part=bottom,open=false":  { "model": "mcwdoors:block/portcullis/iron_portcullis_door_bottom", "y": 180 },
+        "facing=north,part=bottom,open=false": { "model": "mcwdoors:block/portcullis/iron_portcullis_door_bottom", "y": 270 },
+		
+		"facing=east,part=middle,open=false":  { "model": "mcwdoors:block/portcullis/iron_portcullis_door_top" },
+        "facing=south,part=middle,open=false": { "model": "mcwdoors:block/portcullis/iron_portcullis_door_top", "y": 90 },
+        "facing=west,part=middle,open=false":  { "model": "mcwdoors:block/portcullis/iron_portcullis_door_top", "y": 180 },
+        "facing=north,part=middle,open=false": { "model": "mcwdoors:block/portcullis/iron_portcullis_door_top", "y": 270 },
+
+		"facing=east,part=top,open=true":  { "model": "mcwdoors:block/portcullis/iron_portcullis_door_top_open" },
+        "facing=south,part=top,open=true": { "model": "mcwdoors:block/portcullis/iron_portcullis_door_top_open", "y": 90 },
+        "facing=west,part=top,open=true":  { "model": "mcwdoors:block/portcullis/iron_portcullis_door_top_open", "y": 180 },
+        "facing=north,part=top,open=true": { "model": "mcwdoors:block/portcullis/iron_portcullis_door_top_open", "y": 270 },
+		
+		"facing=east,part=middle,open=true":  { "model": "minecraft:block/air" },
+        "facing=south,part=middle,open=true": { "model": "minecraft:block/air" },
+        "facing=west,part=middle,open=true":  { "model": "minecraft:block/air" },
+        "facing=north,part=middle,open=true": { "model": "minecraft:block/air" },
+		
+	    "facing=east,part=bottom,open=true":  { "model": "minecraft:block/air" },
+        "facing=south,part=bottom,open=true": { "model": "minecraft:block/air" },
+        "facing=west,part=bottom,open=true":  { "model": "minecraft:block/air" },
+        "facing=north,part=bottom,open=true": { "model": "minecraft:block/air" }
+		
+		
+
+    }
+}

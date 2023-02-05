@@ -1,0 +1,8 @@
+{
+    "parent": "mcwdoors:block/parent/fixed/stable_bottom",
+    "textures": {
+        "particle": "mcwdoors:block/spruce_barn_door_lower",
+		"1": "mcwdoors:block/spruce_barn_door_lower",
+		"bottom": "mcwdoors:block/stable_head/spruce_stable_head_door_lower"
+    }
+}

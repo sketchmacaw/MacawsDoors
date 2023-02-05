@@ -1,0 +1,11 @@
+{
+    "parent": "mcwdoors:block/parent/portcullis_door_bottom",
+    "ambientocclusion": false,
+    "textures": {
+        
+		"3": "mcwdoors:block/wooden_portcullis_door_bottom",
+		"particle": "mcwdoors:block/wooden_portcullis_door_bottom"
+    }
+}
+
+

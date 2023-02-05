@@ -1,0 +1,10 @@
+{
+    "block.garage": {
+        "subtitle": "subtitle.mcwdoors.garage",
+        "sounds": [ "mcwdoors:block/garage" ]
+    },
+    "block.shoji": {
+        "subtitle": "subtitle.mcwdoors.shoji",
+        "sounds": [ "mcwdoors:block/shoji" ]
+    }
+}

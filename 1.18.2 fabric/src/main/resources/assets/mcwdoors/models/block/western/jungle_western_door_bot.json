@@ -1,0 +1,9 @@
+{
+	"ambientocclusion": false,
+    "parent": "mcwdoors:block/parent/western_door_bot",
+	"textures": {  
+	"particle": "mcwdoors:block/western/jungle_western_door_lower",
+		"1": "mcwdoors:block/western/jungle_western_door_lower",
+		"2": "mcwdoors:block/western/jungle_western_door_upper"
+    }
+}

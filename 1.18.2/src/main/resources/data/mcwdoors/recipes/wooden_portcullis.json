@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "portcullis",
+    
+    "pattern":
+    [
+        "AAA",
+        "BBB"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+             "tag": "minecraft:wooden_fences"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:wooden_portcullis",
+        "count": 3
+    }
+}
+
+

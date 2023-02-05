@@ -1,0 +1,45 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwdoors:print_spruce",
+	  
+	  "mcwdoors:spruce_bark_glass_door",
+	  "mcwdoors:spruce_barn_door",
+	  "mcwdoors:spruce_barn_glass_door",
+	  "mcwdoors:spruce_beach_door",
+	  "mcwdoors:spruce_classic_door",
+	  "mcwdoors:spruce_tropical_door",
+	  "mcwdoors:spruce_four_panel_door",
+	  "mcwdoors:spruce_glass_door",
+	  "mcwdoors:spruce_japanese_door",
+	  "mcwdoors:spruce_japanese2_door",
+	  "mcwdoors:spruce_modern_door",
+	  "mcwdoors:spruce_mystic_door",
+	  "mcwdoors:spruce_nether_door",
+	  "mcwdoors:spruce_paper_door",
+	  "mcwdoors:spruce_stable_door",
+	  "mcwdoors:spruce_stable_head_door",
+	  "mcwdoors:spruce_swamp_door",
+	  "mcwdoors:spruce_western_door",
+	  "mcwdoors:spruce_bamboo_door"
+    ]
+  },
+  "criteria": {
+    "has_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:spruce_log"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_planks"
+    ]
+  ]
+}

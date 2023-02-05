@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "mcwdoors",
+  "version": "1.0.8",
+
+  "name": "Macaw's Doors",
+  "description": "Adds a lot of new Doors! With vanila and unique styles.",
+  "authors": [
+    "Sketch Macaw & Peachy Macaw"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-doors",
+    "sources": ""
+  },
+
+  "license": "MIT",
+  "icon": "assets/mcwdoors/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.kikoz.mcwdoors.MacawsDoors"
+    ],
+	"client": [
+      "net.kikoz.mcwdoors.util.ClientEventBusSubscriber"
+    ]
+  },
+  "mixins": [
+    "mcwdoors.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+	"suggests": {
+		"another-mod": "*"
+	}
+}

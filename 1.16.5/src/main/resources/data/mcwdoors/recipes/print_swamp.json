@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "prints",
+    
+    "pattern":
+    [
+        "A",
+        "B",
+        "A"                
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:paper"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:vine"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:print_swamp",
+        "count": 2
+    }
+}
+
+

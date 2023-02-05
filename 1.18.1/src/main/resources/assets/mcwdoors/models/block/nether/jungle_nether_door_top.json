@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/core/door_top",
+    "textures": {
+        
+"bottom": "mcwdoors:block/jungle_nether_door_lower",
+"particle": "mcwdoors:block/jungle_nether_door_lower",
+        "top": "mcwdoors:block/jungle_nether_door_upper"
+    }
+}

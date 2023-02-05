@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "bark",
+    
+    "pattern":
+    [
+        "AB",
+        "BB",
+		"AB"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:crimson_stem"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:glass"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:crimson_stem_glass_door",
+        "count": 3
+    }
+}
+
+

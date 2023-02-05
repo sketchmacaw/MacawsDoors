@@ -1,0 +1,12 @@
+{
+    "parent": "mcwdoors:block/parent/portcullis_door_top_open",
+    "ambientocclusion": false,
+    "textures": {
+        
+		"1": "mcwdoors:block/iron_portcullis_door_bottom",
+		"3": "mcwdoors:block/iron_portcullis_door_top",
+		"particle": "mcwdoors:block/iron_portcullis_door_top"
+    }
+}
+
+

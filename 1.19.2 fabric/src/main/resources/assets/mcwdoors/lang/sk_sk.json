@@ -1,0 +1,202 @@
+	{
+		
+		"itemGroup.mcwdoors": "Macawové Dvere",		
+		
+	    "mcwdoors.crafting.desc":"Craftovacia prísada",
+	    "mcwdoors.remote.desc":"Kliknite pravým tlačítkom na garážové dvere pre otvorenie/zatvorenie",
+		
+		"subtitle.mcwdoors.shoji": "Manipulácia so Shoji Dverami",
+        "subtitle.mcwdoors.garage": "Manipulácia s Garážovými dverami",
+	 
+	    "item.mcwdoors.garage_remote":"Ovládač pre garáž",
+   	    "item.mcwdoors.print_oak":"Dubová potlač pre dvere",
+        "item.mcwdoors.print_spruce":"Smreková potlač pre dvere",
+        "item.mcwdoors.print_birch":"Brezová potlač pre dvere",
+        "item.mcwdoors.print_jungle":"Džunglová potlač pre dvere",
+        "item.mcwdoors.print_acacia":"Akáciová potlač pre dvere",
+        "item.mcwdoors.print_dark_oak":"Tmavo Dubová potlač pre dvere",
+	    "item.mcwdoors.print_nether":"Karmínová potlač pre dvere",
+        "item.mcwdoors.print_mystic":"Prízračná potlač pre dvere",
+
+		"block.mcwdoors.oak_japanese_door":"Dubové Shoji Dvere",
+		"block.mcwdoors.spruce_japanese_door":"Smrekové Shoji Dvere",
+		"block.mcwdoors.birch_japanese_door":"Brezové Shoji Dvere",
+		"block.mcwdoors.jungle_japanese_door":"Džunglové Shoji Dvere",
+		"block.mcwdoors.acacia_japanese_door":"Akáciové Shoji Dvere",
+		"block.mcwdoors.dark_oak_japanese_door":"Tmavo Dubové Shoji Dvere",
+		"block.mcwdoors.crimson_japanese_door":"Karmínové Shoji Dvere",
+		"block.mcwdoors.warped_japanese_door":"Prízračné Shoji Dvere",
+		
+		"block.mcwdoors.oak_japanese2_door":"Dubové Shoji Celé Dvere",
+		"block.mcwdoors.spruce_japanese2_door":"Smrekové Shoji Celé Dvere",
+		"block.mcwdoors.birch_japanese2_door":"Brezové Shoji Celé Dvere",
+		"block.mcwdoors.jungle_japanese2_door":"Džunglové Shoji Celé Dvere",
+		"block.mcwdoors.acacia_japanese2_door":"Akáciové Shoji Celé Dvere",
+		"block.mcwdoors.dark_oak_japanese2_door":"Tmavo Dubové Shoji Celé Dvere",
+		"block.mcwdoors.crimson_japanese2_door":"Karmínové Shoji Celé Dvere",
+		"block.mcwdoors.warped_japanese2_door":"Prízračné Shoji Celé Dvere",
+		
+		"block.mcwdoors.oak_barn_door":"Dubové Stodolové Dvere",
+		"block.mcwdoors.spruce_barn_door":"Smrekové Stodolové Dvere",
+		"block.mcwdoors.birch_barn_door":"Brezové Stodolové Dvere",
+		"block.mcwdoors.jungle_barn_door":"Džunglové Stodolové Dvere",
+		"block.mcwdoors.acacia_barn_door":"Akáciové Stodolové Dvere",
+		"block.mcwdoors.dark_oak_barn_door":"Tmavo Dubové Stodolové Dvere",
+		"block.mcwdoors.crimson_barn_door":"Karmínové Stodolové Dvere",
+		"block.mcwdoors.warped_barn_door":"Prízračné Stodolové Dvere",
+		
+		"block.mcwdoors.oak_modern_door":"Dubové Moderné Dvere",
+		"block.mcwdoors.spruce_modern_door":"Smrekové Moderné Dvere",
+		"block.mcwdoors.birch_modern_door":"Brezové Moderné Dvere",
+		"block.mcwdoors.jungle_modern_door":"Džunglové Moderné Dvere",
+		"block.mcwdoors.acacia_modern_door":"Akáciové Moderné Dvere",
+		"block.mcwdoors.dark_oak_modern_door":"Tmavo Moderné Dvere",
+		"block.mcwdoors.crimson_modern_door":"Karmínové Moderné Dvere",
+		"block.mcwdoors.warped_modern_door":"Prízračné Moderné Dvere",
+		
+		"block.mcwdoors.oak_barn_glass_door":"Dubové Stodolové Sklenené Dvere",
+		"block.mcwdoors.spruce_barn_glass_door":"Smrekové Stodolové Sklenené Dvere",
+		"block.mcwdoors.birch_barn_glass_door":"Brezové Stodolové Sklenené Dvere",
+		"block.mcwdoors.jungle_barn_glass_door":"Džunglové Stodolové Sklenené Dvere",
+		"block.mcwdoors.acacia_barn_glass_door":"Akáciové Stodolové Sklenené Dvere",
+		"block.mcwdoors.dark_oak_barn_glass_door":"Tmavo Dubové Stodolové Sklenené Dvere",
+		"block.mcwdoors.crimson_barn_glass_door":"Karmínové Stodolové Sklenené Dvere",
+		"block.mcwdoors.warped_barn_glass_door":"Prízračné Stodolové Sklenené Dvere",
+        
+        "block.mcwdoors.oak_cottage_door":"Dubové Sedliacke Dvere",
+        "block.mcwdoors.birch_cottage_door":"Brezové Sedliacke Dvere",
+        "block.mcwdoors.jungle_cottage_door":"Džunglové Sedliacke Dvere",
+        "block.mcwdoors.acacia_cottage_door":"Akáciové Sedliacke Dvere",
+        "block.mcwdoors.dark_oak_cottage_door":"Tmavo Dubové Sedliacke Dvere",
+		"block.mcwdoors.crimson_cottage_door":"Karmínové Sedliacke Dvere",
+        "block.mcwdoors.warped_cottage_door":"Prízračné Sedliacke Dvere",
+        
+        "block.mcwdoors.spruce_classic_door":"Smrekové Klasické Dvere",
+        "block.mcwdoors.birch_classic_door":"Brezové Klasické Dvere",
+        "block.mcwdoors.jungle_classic_door":"Džunglové Klasické Dvere",
+        "block.mcwdoors.acacia_classic_door":"Akáciové Klasické Dvere",
+        "block.mcwdoors.dark_oak_classic_door":"Tmavo Dubové Klasické Dvere",
+	    "block.mcwdoors.crimson_classic_door":"Karmínové Klasické Dvere",
+        "block.mcwdoors.warped_classic_door":"Prízračné Klasické Dvere",
+        
+        "block.mcwdoors.oak_beach_door":"Dubové Plážové Dvere",
+        "block.mcwdoors.spruce_beach_door":"Smrekové Plážové Dvere",
+        "block.mcwdoors.birch_beach_door":"Brezové Plážové Dvere",
+        "block.mcwdoors.acacia_beach_door":"Akáciové Plážové Dvere",
+        "block.mcwdoors.dark_oak_beach_door":"Tmavo Dubové Plážové Dvere",
+	    "block.mcwdoors.crimson_beach_door":"Karmínové Plážové Dvere",
+        "block.mcwdoors.warped_beach_door":"Prízračné Plážové Dvere",
+        
+        "block.mcwdoors.oak_paper_door":"Dubové Papierové Dvere",
+        "block.mcwdoors.spruce_paper_door":"Smrekové Papierové Dvere",
+        "block.mcwdoors.jungle_paper_door":"Džunglové Papierové Dvere",
+        "block.mcwdoors.acacia_paper_door":"Akáciové Papierové Dvere",
+        "block.mcwdoors.dark_oak_paper_door":"Tmavo Dubové Papierové Dvere",
+	    "block.mcwdoors.crimson_paper_door":"Karmínové Papierové Dvere",
+        "block.mcwdoors.warped_paper_door":"Prízračné Papierové Dvere",
+        
+        "block.mcwdoors.oak_four_panel_door":"Dubové Štvor Panelové Dvere",
+        "block.mcwdoors.spruce_four_panel_door":"Smrekové Štvor Panelové Dvere",
+        "block.mcwdoors.birch_four_panel_door":"Brezové Štvor Panelové Dvere",
+        "block.mcwdoors.jungle_four_panel_door":"Džunglové Štvor Panelové Dvere",
+        "block.mcwdoors.acacia_four_panel_door":"Akáciové Štvor Panelové Dvere",
+		"block.mcwdoors.dark_oak_four_panel_door":"Tmavo Dubové Štvor Panelové Dvere",
+		"block.mcwdoors.crimson_four_panel_door":"Karmínové Štvor Panelové Dvere",
+        "block.mcwdoors.warped_four_panel_door":"Prízračné Štvor Panelové Dvere",
+        
+        "block.mcwdoors.oak_tropical_door":"Dubové Tropické Dvere",
+        "block.mcwdoors.spruce_tropical_door":"Smrekové Tropické Dvere",
+        "block.mcwdoors.birch_tropical_door":"Brezové Tropické Dvere",
+        "block.mcwdoors.jungle_tropical_door":"Džunglové Tropické Dvere",
+        "block.mcwdoors.dark_oak_tropical_door":"Tmavo Dubové Tropické Dvere",
+        "block.mcwdoors.crimson_tropical_door":"Karmínové Tropické Dvere",
+        "block.mcwdoors.warped_tropical_door":"Prízračné Tropické Dvere",
+		
+        "block.mcwdoors.metal_door":"Kovové Dvere",
+		"block.mcwdoors.metal_warning_door":"Kovové Upozorňovacie Dvere",
+		"block.mcwdoors.metal_hospital_door":"Kovové Nemocničné Dvere",
+		"block.mcwdoors.metal_reinforced_door":"Kovové Vystužené Dvere",
+		"block.mcwdoors.metal_windowed_door":"Kovové Sklenené Dvere",
+        "block.mcwdoors.jail_door":"Väzenské Dvere",
+		
+		"block.mcwdoors.oak_glass_door":"Dubové Sklenené Dvere",
+		"block.mcwdoors.oak_mystic_door":"Dubové Mystické Dvere",
+		"block.mcwdoors.oak_nether_door":"Dubové Pekelné Dvere",
+		"block.mcwdoors.oak_stable_door":"Dubové Stájové Dvere",
+		"block.mcwdoors.oak_stable_head_door":"Dubové Stájové Koňské Dvere",
+		"block.mcwdoors.oak_western_door":"Dubové Západné Dvere",
+		
+		"block.mcwdoors.spruce_glass_door":"Smrekové Sklenené Dvere",
+		"block.mcwdoors.spruce_mystic_door":"Smrekové Mystické Dvere",
+		"block.mcwdoors.spruce_nether_door":"Smrekové Pekelné Dvere",
+		"block.mcwdoors.spruce_stable_door":"Smrekové Stájové Dvere",
+		"block.mcwdoors.spruce_stable_head_door":"Smrekové Stájové Koňské Dvere",
+		"block.mcwdoors.spruce_western_door":"Smrekové Západné Dvere",
+		
+		"block.mcwdoors.birch_glass_door":"Brezové Sklenené Dvere",
+		"block.mcwdoors.birch_mystic_door":"Brezové Mystické Dvere",
+		"block.mcwdoors.birch_nether_door":"Brezové Pekelné Dvere",
+		"block.mcwdoors.birch_stable_door":"Brezové Stájové Dvere",
+		"block.mcwdoors.birch_stable_head_door":"Brezové Stájové Koňské Dvere",
+		"block.mcwdoors.birch_western_door":"Brezové Západné Dvere",
+		
+		"block.mcwdoors.jungle_glass_door":"Džunglové Sklenené Dvere",
+		"block.mcwdoors.jungle_mystic_door":"Džunglové Mystické Dvere",
+		"block.mcwdoors.jungle_nether_door":"Džunglové Pekelné Dvere",
+		"block.mcwdoors.jungle_stable_door":"Džunglové Stájové Dvere",
+		"block.mcwdoors.jungle_stable_head_door":"Džunglové Stájové Koňské Dvere",
+		"block.mcwdoors.jungle_western_door":"Džunglové Západné Dvere",
+		
+		"block.mcwdoors.acacia_glass_door":"Akáciové Sklenené Dvere",
+		"block.mcwdoors.acacia_mystic_door":"Akáciové Mystické Dvere",
+		"block.mcwdoors.acacia_nether_door":"Akáciové Pekelné Dvere",
+		"block.mcwdoors.acacia_stable_door":"Akáciové Stájové Dvere",
+		"block.mcwdoors.acacia_stable_head_door":"Akáciové Stájové Koňské Dvere",
+		"block.mcwdoors.acacia_western_door":"Akáciové Západné Dvere",
+		
+		"block.mcwdoors.dark_oak_glass_door":"Tmavo Dubové Sklenené Dvere",
+		"block.mcwdoors.dark_oak_mystic_door":"Tmavo Dubové Mystické Dvere",
+		"block.mcwdoors.dark_oak_nether_door":"Tmavo Dubové Pekelné Dvere",
+		"block.mcwdoors.dark_oak_stable_door":"Tmavo Dubové Stájové Dvere",
+		"block.mcwdoors.dark_oak_stable_head_door":"Tmavo Dubové Stájové Koňské Dvere",
+		"block.mcwdoors.dark_oak_western_door":"Tmavo Dubové Západné Dvere",
+
+		"block.mcwdoors.warped_glass_door":"Prízračné Sklenené Dvere",
+		"block.mcwdoors.warped_mystic_door":"Prízračné Mystické Dvere",
+		"block.mcwdoors.warped_nether_door":"Prízračné Pekelné Dvere",
+		"block.mcwdoors.warped_stable_door":"Prízračné Stájové Dvere",
+		"block.mcwdoors.warped_stable_head_door":"Prízračné Stájové Koňské Dvere",
+		"block.mcwdoors.warped_western_door":"Prízračné Západné Dvere",
+
+		"block.mcwdoors.crimson_glass_door":"Karmínové Sklenené Dvere",
+		"block.mcwdoors.crimson_mystic_door":"Karmínové Mystické Dvere",
+		"block.mcwdoors.crimson_nether_door":"Karmínové Pekelné Dvere",
+		"block.mcwdoors.crimson_stable_door":"Karmínové Stájové Dvere",
+		"block.mcwdoors.crimson_stable_head_door":"Karmínové Stájové Koňské Dvere",
+		"block.mcwdoors.crimson_western_door":"Karmínové Západné Dvere", 
+	 
+	    "block.mcwdoors.garage_white_door":"Biele Garážové Dvere",
+		"block.mcwdoors.garage_silver_door":"Svetlo Sivé Garážové Dvere",
+		"block.mcwdoors.garage_gray_door":"Sivé Garážové Dvere",
+		"block.mcwdoors.garage_black_door":"Čierne Garážové Dvere",
+		
+		"block.mcwdoors.oak_bark_glass_door":"Dubové Kôrovité Sklenené Dvere",
+		"block.mcwdoors.spruce_bark_glass_door":"Smrekové Kôrovité Sklenené Dvere",
+		"block.mcwdoors.birch_bark_glass_door":"Brezové Kôrovité Sklenené Dvere",
+		"block.mcwdoors.jungle_bark_glass_door":"Džunglové Kôrovité Sklenené Dvere",
+		"block.mcwdoors.acacia_bark_glass_door":"Akáciové Kôrovité Sklenené Dvere",
+		"block.mcwdoors.dark_oak_bark_glass_door":"Tmavo Dubové Kôrovité Sklenené Dvere",
+		"block.mcwdoors.crimson_stem_glass_door":"Karmínové Stonkové Sklenené Dvere",
+		"block.mcwdoors.warped_stem_glass_door":"Prízračné Stonkové Sklenené Dvere"
+
+        
+
+				
+		
+
+		
+		
+		
+                                                                     
+	}
+	

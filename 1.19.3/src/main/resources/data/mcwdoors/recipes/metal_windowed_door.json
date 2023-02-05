@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B",
+        "A"               
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:glass_pane"
+        },    
+        
+        "A":
+        {
+            "item": "mcwdoors:metal_door"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:metal_windowed_door",
+        "count": 1
+    }
+}
+
+

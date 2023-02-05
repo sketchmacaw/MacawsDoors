@@ -1,0 +1,50 @@
+{
+	"textures": {
+		"0": "mcwdoors:block/jail_door_lower",
+		"1": "mcwdoors:block/jail_door_upper",
+		"particle": "mcwdoors:block/jail_door_lower"
+	},
+	"render_type": "cutout",
+	"elements": [
+		{
+			"from": [7.5, 0, 26],
+			"to": [8.5, 16, 27],
+			"faces": {
+				"north": {"uv": [1, 0, 0, 16], "texture": "#1"},
+				"east": {"uv": [1, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [1, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [1, 0, 0, 16], "texture": "#0"},
+				"down": {"uv": [1, 0, 0, 1], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, 0, 11],
+			"to": [8.5, 16, 12],
+			"faces": {
+				"north": {"uv": [16, 0, 15, 16], "texture": "#0"},
+				"east": {"uv": [16, 0, 15, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 15, 16], "texture": "#0"},
+				"west": {"uv": [16, 0, 15, 16], "texture": "#0"},
+				"down": {"uv": [1, 0, 0, 1], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, 0, 12],
+			"to": [8.5, 1, 26],
+			"faces": {
+				"east": {"uv": [15, 15, 1, 16], "texture": "#0"},
+				"west": {"uv": [15, 15, 1, 16], "texture": "#0"},
+				"up": {"uv": [15, 15, 1, 16], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [15, 15, 1, 16], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 1, 12],
+			"to": [8, 16, 26],
+			"faces": {
+				"east": {"uv": [1, 0, 15, 15], "texture": "#0"},
+				"west": {"uv": [15, 0, 1, 15], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "ABA",
+        "AAA"                
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:iron_nugget"
+        },    
+        
+        "B":
+        {
+            "item": "mcwdoors:metal_door"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:metal_reinforced_door",
+        "count": 1
+    }
+}
+
+

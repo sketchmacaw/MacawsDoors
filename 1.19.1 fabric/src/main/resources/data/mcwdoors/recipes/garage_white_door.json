@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BAB",
+		"BBB"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:glass"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:garage_white_door",
+        "count": 3
+    }
+}
+
+

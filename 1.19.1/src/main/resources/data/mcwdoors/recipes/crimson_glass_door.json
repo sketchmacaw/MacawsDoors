@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "glassed",
+    
+    "pattern":
+    [
+        "AB",
+        "BB",
+		"AB"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:crimson_planks"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:glass_pane"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:crimson_glass_door",
+        "count": 3
+    }
+}
+
+

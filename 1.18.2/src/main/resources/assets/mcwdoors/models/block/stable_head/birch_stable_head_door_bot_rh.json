@@ -1,0 +1,8 @@
+{
+    "parent": "mcwdoors:block/parent/fixed/stable_bottom_rh",
+    "textures": {
+        "particle": "mcwdoors:block/birch_barn_door_lower",
+		"1": "mcwdoors:block/birch_barn_door_lower",
+		"bottom": "mcwdoors:block/stable_head/birch_stable_head_door_lower"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "mcwdoors:item/jungle_japanese_door"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "paper",
+    
+    "pattern":
+    [
+        "A",
+        "B",
+        "A"                
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:dark_oak_planks"
+        },    
+        
+        "B":
+        {
+            "item": "mcwdoors:print_birch"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:dark_oak_paper_door",
+        "count": 1
+    }
+}
+
+

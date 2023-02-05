@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:wooden_doors",
+    "minecraft:iron_door",
+	"mcwdoors:metal_door",
+	"mcwdoors:metal_warning_door",
+	"mcwdoors:metal_hospital_door",
+	"mcwdoors:metal_reinforced_door",
+	"mcwdoors:metal_windowed_door",
+	"mcwdoors:store_door",
+	"mcwdoors:sliding_glass_door",
+	"mcwdoors:jail_door"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "bark",
+    
+    "pattern":
+    [
+        "AB",
+        "BB",
+		"AB"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:dark_oak_log"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:glass"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:dark_oak_bark_glass_door",
+        "count": 3
+    }
+}
+
+

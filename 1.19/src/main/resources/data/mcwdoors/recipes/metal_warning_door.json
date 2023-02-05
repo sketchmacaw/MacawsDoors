@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "ABA"             
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "mcwdoors:metal_windowed_door"
+        },    
+        
+        "A":
+        {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:metal_warning_door",
+        "count": 1
+    }
+}
+
+

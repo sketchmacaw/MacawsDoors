@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/door_top",
+    "textures": {
+        
+"bottom": "mcwdoors:block/oak_barn_door_lower",
+"particle": "mcwdoors:block/oak_barn_door_lower",
+        "top": "mcwdoors:block/oak_barn_glass_door_upper"
+    }
+}

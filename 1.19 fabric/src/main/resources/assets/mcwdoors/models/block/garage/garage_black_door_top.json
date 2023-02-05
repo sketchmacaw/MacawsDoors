@@ -1,0 +1,10 @@
+{
+    "parent": "mcwdoors:block/parent/garage_door_top",
+    "ambientocclusion": false,
+    "textures": {
+        
+		"1": "mcwdoors:block/garage_black_door_bottom",
+		"3": "mcwdoors:block/garage_black_door_top",
+		"particle": "mcwdoors:block/garage_black_door_top"
+    }
+}

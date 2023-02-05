@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "shoji_two",
+    
+    "pattern":
+    [
+        "BB",
+        "BB",
+        "AA"                
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:birch_slab"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:paper"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwdoors:birch_japanese2_door",
+        "count": 3
+    }
+}
+
+
