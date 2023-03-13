@@ -184,8 +184,6 @@ public void placeAt(World level, BlockPos pos, int num) {
 				level.random.nextFloat() * 0.1F + 0.8F);
 
 		if (state.getValue(OPEN) == true && state.getValue(PART) == GaragePart.BOTTOM || state.getValue(PART) == GaragePart.MIDDLE) {
-		} else {
-			this.addDestroyEffects(state, level, pos, null);
 		}
 	}
 
