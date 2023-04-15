@@ -31,7 +31,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dark_oak_log"
+            "items": ["minecraft:dark_oak_log"]
           }
         ]
       }

@@ -31,7 +31,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:jungle_log"
+            "items": ["minecraft:jungle_log"]
           }
         ]
       }

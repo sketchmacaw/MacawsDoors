@@ -31,7 +31,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:acacia_log"
+            "items": ["minecraft:acacia_log"]
           }
         ]
       }
