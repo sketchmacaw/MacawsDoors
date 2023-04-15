@@ -31,7 +31,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:warped_stem"
+            "items": ["minecraft:warped_stem"]
           }
         ]
       }

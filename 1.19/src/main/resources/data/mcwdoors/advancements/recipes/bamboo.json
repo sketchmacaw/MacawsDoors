@@ -31,7 +31,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:bamboo"
+            "items": ["minecraft:bamboo"]
           }
         ]
       }

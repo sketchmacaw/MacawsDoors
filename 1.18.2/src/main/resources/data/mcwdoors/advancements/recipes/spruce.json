@@ -31,7 +31,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:spruce_log"
+            "items": ["minecraft:spruce_log"]
           }
         ]
       }
