@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "mcwdoors:item/sliding_glass_door"
-    }
-}
